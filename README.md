@@ -121,10 +121,4 @@ I'm always eager to collaborate on exciting projects and expand my knowledge in 
 
 
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcggEz&theme=tokyonight&hide_border=true" />
-</div>
